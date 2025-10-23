@@ -5,8 +5,9 @@ export default function App(){
   return(
     <scrollview style={{padding:20}}>
 
-      
+
     </scrollview>
 
   )
+  import titulo from './componentes/titulo';
 }
