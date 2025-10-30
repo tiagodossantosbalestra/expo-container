@@ -1,6 +1,6 @@
 import react from 'react';
 import{scrollview} from 'react-native';
-import Titulo from
+import Titulo from './componentes/titulo';
 import Saudacao from './componentes/fotoPerfil';
 
 
@@ -8,7 +8,7 @@ export default function App(){
   return(
     <scrollview style={{padding:20}}>
   <titulo />
-  <saudacao nome="Tiago"/>
+  <saudacao nome='Tiago'/>
 
     </scrollview>
 

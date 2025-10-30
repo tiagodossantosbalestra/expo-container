@@ -16,7 +16,23 @@ export default function CartaoUsuario({nome, descricao, imagem}){
 const estilos = StyleSheet.create({
 
 cartao:{
-        backgroundColor:'#e1f7f7',
+        backgroundColor:'#e1f7f7
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ',
         padding:16,
         marginTop:15,
         borderRadius:10,
