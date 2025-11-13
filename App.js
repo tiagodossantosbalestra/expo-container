@@ -11,19 +11,19 @@ export default function App(){
   <saudacao nome='Tiago'/>
   <fotoPerfil />
 
-  <cartaoUsuário
+  <CartaoUsuario
   nome='joao da silva'
   descricao='programador mobile'
   img='perfil00' 
   />
 
-  <cartaoUsuário
+  <CartaoUsuario
   nome='maria souza'
   descricao='departamento de ti'
   img='perfil02' 
   />
 
-    </scrollview>
+  </scrollview>
 
   )
 }
