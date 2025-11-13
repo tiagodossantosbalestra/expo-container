@@ -2,7 +2,7 @@ import react from 'react';
 import{scrollview} from 'react-native';
 import Titulo from './componentes/titulo';
 import CartaoUsuario from './componentes/fotoPerfil';
-
+import fotoPerfil from './componentes/fotoPerfil';
 
 export default function App(){
   return(
