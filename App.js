@@ -1,7 +1,7 @@
 import react from 'react';
 import{scrollview} from 'react-native';
 import Titulo from './componentes/titulo';
-import Saudacao from './componentes/fotoPerfil';
+import CartaoUsuario from './componentes/fotoPerfil';
 
 
 export default function App(){
